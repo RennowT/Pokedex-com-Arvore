@@ -1,5 +1,4 @@
 // Autor: Matheus Renó Torres
-// 
 // Data: 19 de junho de 2023
 
 /*
